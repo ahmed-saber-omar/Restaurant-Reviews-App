@@ -9,7 +9,7 @@ class DBHelper {
    */
   static get DATABASE_URL() {
      // Change this to your server port
-    return `https://ahmed-saber-omar.github.io/Restaurant-Reviews-App/`;
+    return `https://ahmed-saber-omar.github.io/Restaurant-Reviews-App`;
   }
 
   /**
